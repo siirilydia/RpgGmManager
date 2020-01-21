@@ -1,5 +1,5 @@
-BESM,Siiri,Megumin,150,150,150,90
+BESM,Siiri,Megumin,150,150,150,150
 BESM,Tuukka,Elaine,100,60,70,70
 BESM,Sami,Sachi,40,40,100,100
-BESM,Rasse,Kukulkan,95,60,80,80
-BESM,Vesa,BoomBoom,100,100,150,150
+BESM,Rasse,Kukulkan,95,90,80,80
+BESM,Vesa,BoomBoom,100,100,150,145
